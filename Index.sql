@@ -1,0 +1,1 @@
+CREATE DATABASE Public_Health_Clinic_Queue_Management_System;
